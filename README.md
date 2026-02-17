@@ -240,8 +240,9 @@
   <a href="mailto:k.u.nhlapo@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Kea-nhlapo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="kea-nhlapo.github.io">
+  <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
+</a>
   </a>
 </div>
 
