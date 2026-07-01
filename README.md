@@ -20,25 +20,25 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
-- 🧑‍💻 **Name:** Kea Nhlapo  
-- 📍 **Located in:** South Africa  
-- 🎯 **Current Focus:** Backend & Cloud Engineering  
+-  **Name:** Kea Nhlapo  
+-  **Located in:** South Africa  
+- **Current Focus:** Backend & Cloud Engineering  
 
-### 🎓 Education
+###  Education
 - Shangri-la Academy(High school)
 - 2nd year compsci student(unisa)
 - Systems Development (DynamicDNA) 
 - Cloud Certifications (in progress)
 
-### 📚 Currently Learning
+###  Currently Learning
 - Azure Architecture  
 - Terraform Advanced Patterns  
 - CI/CD Best Practices
 - Backend software development
 
-### 🧠 Technical Interests
+### Technical Interests
 - Infrastructure as Code  
 - Backend Systems  
 - DevOps Culture  
@@ -48,21 +48,11 @@
 
 <br clear="right"/>
 
-## 🎯 Current Focus
 
-<div align="center">
-
-| 🚀 This Month | 📅 Next Up | 📊 Progress |
-|--------------|------------|------------|
-| ☁️ Azure Fundamentals | 🗂️ Remote State Mgmt | ▰▰▰▰▰▰▰▰▰▰▱▱▱▱ 65% |
-| 🧩 Terraform Modules | 🔐 Key Vault Integration | ▰▰▰▰▰▰▰▱▱▱▱▱▱▱ 55% |
-| 🔁 CI/CD Basics | ⚙️ GH Actions Workflows | ▰▰▰▰▰▰▰▰▱▱▱▱▱▱ 60% |
-
-</div>
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -70,7 +60,7 @@
 <tr>
 
 <td width="50%" align="center">
-<h3>🔐 Simple Login Page</h3>
+<h3> Simple Login Page</h3>
 
 <a href="https://github.com/Kea-nhlapo/OIBSIP/tree/main/login_folder">
 
@@ -96,7 +86,7 @@
 </td>
 
 <td width="50%" align="center">
-<h3>🏛️ Tribute Page</h3>
+<h3> Tribute Page</h3>
 
 <a href="https://github.com/Kea-nhlapo/OIBSIP/tree/main/tribute_folder">
 
@@ -120,7 +110,7 @@
 
 <tr>
 <td colspan="2" align="center">
-<h3>🧮 Simple Calculator</h3>
+<h3> Simple Calculator</h3>
 
 <a href="https://github.com/Kea-nhlapo/OIBSIP/tree/main/calculator_folder">
 
@@ -151,24 +141,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### ☁ Cloud & Infrastructure
+###  Cloud & Infrastructure
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
-### 🗄 Tools & Databases
+###  Tools & Databases
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -177,7 +167,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 
 <div align="center">
@@ -190,7 +180,7 @@
 
 ---
 
-## 🎬 Project Showcase
+##  Project Showcase
 
 <p align="center">
   <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="350" alt="Building in progress"/>
@@ -207,11 +197,11 @@
 <table>
 <tr>
 <td align="center" width="50%">
-  <h3>🧩 IaC Architecture</h3>
+  <h3> IaC Architecture</h3>
   <p><em>Diagram in progress</em></p>
 </td>
 <td align="center" width="50%">
-  <h3>⚙️ CI/CD Pipeline</h3>
+  <h3> CI/CD Pipeline</h3>
   <p><em>Workflow visual in progress</em></p>
 </td>
 </tr>
@@ -221,7 +211,7 @@
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kea-nhlapo-9a4a49261">
@@ -234,7 +224,7 @@
 </div>
 
 <p align="center">
-  <sub>⚡ “Building tomorrow's infrastructure, one commit at a time.”</sub>
+  <sub> “Building tomorrow's infrastructure, one commit at a time.”</sub>
 </p>
 
 <p align="center">
