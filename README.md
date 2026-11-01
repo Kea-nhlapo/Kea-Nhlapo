@@ -18,7 +18,20 @@ My portfolio is at [kea-nhlapo.github.io](https://kea-nhlapo.github.io). You can
 
 #### Recently pushed
 <!-- recent_repos starts -->
-This list updates itself every day. See [how it works](#how-this-works).
+[Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io) - 2026-11-01
+
+[granite-field](https://github.com/Kea-nhlapo/granite-field) - 2026-10-31
+
+[learnbridge-asl](https://github.com/Kea-nhlapo/learnbridge-asl) - 2026-10-27<br><sub>LearnBridge: accessible learning prototype with transcripts and experimental ASL signing</sub>
+
+[fieldwise](https://github.com/Kea-nhlapo/fieldwise) - 2026-10-17<br><sub>Offline-first field intelligence for extension officers (hackathon build)</sub>
+
+[mint-uptime-guarantee](https://github.com/Kea-nhlapo/mint-uptime-guarantee) - 2026-08-04<br><sub>Predictive machinery uptime and financial risk demonstration platform</sub>
+
+[momentum-companion](https://github.com/Kea-nhlapo/momentum-companion) - 2026-07-31<br><sub>Documented React prototype for a role-aware Momentum life insurance companion</sub>
+
+
+More on [my repositories page](https://github.com/Kea-nhlapo?tab=repositories).
 <!-- recent_repos ends -->
 
 </td></tr></table>
