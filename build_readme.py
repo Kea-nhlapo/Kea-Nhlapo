@@ -33,7 +33,7 @@ THEMES = {
 
 LANGUAGE_COLOURS = {
     "TypeScript": "#3178c6", "JavaScript": "#f1e05a", "Python": "#3572A5", "Java": "#b07219",
-    "C#": "#178600", "HTML": "#e34c26", "CSS": "#663399", "Go": "#00ADD8", "HCL": "#844FBA",
+    "C#": "#178600", "HTML": "#e34c26", "CSS": "#663399", "Go": "#00ADD8", "HCL": "#844FBA", "Dart": "#00B4AB", "Kotlin": "#A97BFF", "Shell": "#89e051",
 }
 
 
