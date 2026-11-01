@@ -7,5 +7,5 @@
 <rect x="0.5" y="0.5" width="399" height="139" rx="8" fill="#ffffff" stroke="#d0d7de"/>
 <text x="20" y="34" class="title">wattwise</text>
 <text x="20" y="62" class="desc">Tracks household electricity use from an Arduino and</text><text x="20" y="82" class="desc">links it to municipal fault reports.</text>
-<circle cx="26" cy="116" r="6" fill="#3572A5"/><text x="38" y="120" class="meta">Python</text>
+<circle cx="26" cy="116" r="6" fill="#3178c6"/><text x="38" y="120" class="meta">TypeScript</text>
 </svg>

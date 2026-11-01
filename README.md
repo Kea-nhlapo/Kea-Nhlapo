@@ -33,7 +33,12 @@
 <br>
 
 <!-- recent_repos starts -->
-- [Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io)
+- [Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io) <sub>2026-11-01</sub>
+- [granite-field](https://github.com/Kea-nhlapo/granite-field) <sub>2026-10-31</sub>
+- [learnbridge-asl](https://github.com/Kea-nhlapo/learnbridge-asl) <sub>2026-10-27</sub><br><sub>LearnBridge: accessible learning prototype with transcripts and experimental ASL signing</sub>
+- [fieldwise](https://github.com/Kea-nhlapo/fieldwise) <sub>2026-10-17</sub><br><sub>Offline-first field intelligence for extension officers (hackathon build)</sub>
+- [mint-uptime-guarantee](https://github.com/Kea-nhlapo/mint-uptime-guarantee) <sub>2026-08-04</sub><br><sub>Predictive machinery uptime and financial risk demonstration platform</sub>
+- [momentum-companion](https://github.com/Kea-nhlapo/momentum-companion) <sub>2026-07-31</sub><br><sub>Documented React prototype for a role-aware Momentum life insurance companion</sub>
 <!-- recent_repos ends -->
 
 </details>
