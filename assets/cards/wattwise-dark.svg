@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-label="wattwise">
+<style>
+.title { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #6ea8fe; }
+.desc { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #c9d1d9; }
+.meta { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #8b949e; }
+</style>
+<rect x="0.5" y="0.5" width="399" height="139" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="34" class="title">wattwise</text>
+<text x="20" y="62" class="desc">Tracks household electricity use from an Arduino and</text><text x="20" y="82" class="desc">links it to municipal fault reports.</text>
+<circle cx="26" cy="116" r="6" fill="#3572A5"/><text x="38" y="120" class="meta">Python</text>
+</svg>
