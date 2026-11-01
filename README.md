@@ -87,7 +87,3 @@
 </p>
 
 </details>
-
-<br>
-
-<p align="center"><sub>The project cards and the recently pushed list update every day through a <a href=".github/workflows/build.yml">GitHub Action</a>. Layout inspired by <a href="https://github.com/DenverCoder1">DenverCoder1</a>.</sub></p>
