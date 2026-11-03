@@ -33,7 +33,7 @@
 <br>
 
 <!-- recent_repos starts -->
-- [Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io) <sub>2026-11-01</sub>
+- [Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io) <sub>2026-11-02</sub>
 - [granite-field](https://github.com/Kea-nhlapo/granite-field) <sub>2026-10-31</sub>
 - [learnbridge-asl](https://github.com/Kea-nhlapo/learnbridge-asl) <sub>2026-10-27</sub><br><sub>LearnBridge: accessible learning prototype with transcripts and experimental ASL signing</sub>
 - [fieldwise](https://github.com/Kea-nhlapo/fieldwise) <sub>2026-10-17</sub><br><sub>Offline-first field intelligence for extension officers (hackathon build)</sub>
