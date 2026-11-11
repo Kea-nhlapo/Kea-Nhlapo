@@ -33,7 +33,7 @@
 <br>
 
 <!-- recent_repos starts -->
-- [learnbridge-asl](https://github.com/Kea-nhlapo/learnbridge-asl) <sub>2026-11-07</sub><br><sub>LearnBridge: accessible learning prototype with transcripts and experimental ASL signing</sub>
+- [learnbridge-asl](https://github.com/Kea-nhlapo/learnbridge-asl) <sub>2026-11-11</sub><br><sub>LearnBridge: accessible learning prototype with transcripts and experimental ASL signing</sub>
 - [tamp-ice-backend-mvp](https://github.com/Kea-nhlapo/tamp-ice-backend-mvp) <sub>2026-11-04</sub>
 - [granite-field](https://github.com/Kea-nhlapo/granite-field) <sub>2026-11-04</sub>
 - [Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io) <sub>2026-11-02</sub>
