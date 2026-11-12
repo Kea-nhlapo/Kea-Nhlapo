@@ -5,13 +5,13 @@
 <h2 align="center">Hey, my name's Kea</h2>
 
 <p align="center">
-  <a href="https://kea-nhlapo.github.io">
+  <a href="https://keanhlapo.site">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Backend+engineer+from+South+Africa;I+mostly+work+on+APIs+and+databases;Learning+Azure+and+Terraform+right+now" alt="Backend engineer from South Africa. I mostly work on APIs and databases. Learning Azure and Terraform right now.">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://kea-nhlapo.github.io"><img src="https://img.shields.io/badge/Portfolio-0B5CD5?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://keanhlapo.site"><img src="https://img.shields.io/badge/Portfolio-0B5CD5?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/kea-nhlapo-9a4a49261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:k.u.nhlapo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
