@@ -33,12 +33,12 @@
 <br>
 
 <!-- recent_repos starts -->
+- [thinta](https://github.com/Kea-nhlapo/thinta) <sub>2026-11-13</sub><br><sub>Thinta + Fika: an agent team that makes maths graphs accessible to blind and Deaf learners (SA Educate)</sub>
 - [Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io) <sub>2026-11-12</sub>
 - [learnbridge-asl](https://github.com/Kea-nhlapo/learnbridge-asl) <sub>2026-11-11</sub><br><sub>LearnBridge: accessible learning prototype with transcripts and experimental ASL signing</sub>
 - [tamp-ice-backend-mvp](https://github.com/Kea-nhlapo/tamp-ice-backend-mvp) <sub>2026-11-04</sub>
 - [granite-field](https://github.com/Kea-nhlapo/granite-field) <sub>2026-11-04</sub>
 - [fieldwise](https://github.com/Kea-nhlapo/fieldwise) <sub>2026-10-17</sub><br><sub>Offline-first field intelligence for extension officers (hackathon build)</sub>
-- [mint-uptime-guarantee](https://github.com/Kea-nhlapo/mint-uptime-guarantee) <sub>2026-08-04</sub><br><sub>Predictive machinery uptime and financial risk demonstration platform</sub>
 <!-- recent_repos ends -->
 
 </details>
