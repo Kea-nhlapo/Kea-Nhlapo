@@ -33,7 +33,7 @@
 <br>
 
 <!-- recent_repos starts -->
-- [civiclens-ai](https://github.com/Kea-nhlapo/civiclens-ai) <sub>2026-11-17</sub>
+- [civiclens-ai](https://github.com/Kea-nhlapo/civiclens-ai) <sub>2026-11-18</sub>
 - [thinta](https://github.com/Kea-nhlapo/thinta) <sub>2026-11-13</sub><br><sub>Thinta + Fika: an agent team that makes maths graphs accessible to blind and Deaf learners (SA Educate)</sub>
 - [Kea-nhlapo.github.io](https://github.com/Kea-nhlapo/Kea-nhlapo.github.io) <sub>2026-11-12</sub>
 - [learnbridge-asl](https://github.com/Kea-nhlapo/learnbridge-asl) <sub>2026-11-11</sub><br><sub>LearnBridge: accessible learning prototype with transcripts and experimental ASL signing</sub>
